@@ -1,4 +1,4 @@
- PickupPulse - Real-time Sports Court Finder
+PickupPulse - Real-time Sports Court Finder
 
 Overview
 
